@@ -63,3 +63,6 @@ README.md
 porcupineyhairs:TemplateInjection
 
 README.md
+
+print(os.environ['PATH'])
+
