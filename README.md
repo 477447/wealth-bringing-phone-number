@@ -56,3 +56,5 @@ steps:
   uses: github/codeql-action/analyze@v2
   with:
     category: "/language:${{matrix.language}}"
+[ubuntu-latest, windows-latest]
+
